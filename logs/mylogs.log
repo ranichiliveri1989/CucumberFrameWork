@@ -1,0 +1,682 @@
+20230219 23:14:56 INFO  [main] commontests.BaseTest BaseTest.java44 - Start the test
+20230219 23:20:35 INFO  [main] commontests.BaseTest BaseTest.java44 - Start the test
+20230219 23:20:35 INFO  [main] commontests.BaseTest BaseTest.java51 - Creating driver
+20230219 23:20:35 INFO  [main] commontests.BaseTest BaseTest.java70 - Creating Chrome
+20230219 23:20:41 INFO  [main] commontests.BaseTest BaseTest.java63 - driver created
+20230219 23:27:08 INFO  [main] commontests.BaseTest BaseTest.java44 - Start the test
+20230219 23:27:09 INFO  [main] commontests.BaseTest BaseTest.java51 - Creating driver
+20230219 23:27:09 INFO  [main] commontests.BaseTest BaseTest.java70 - Creating Chrome
+20230219 23:27:12 INFO  [main] commontests.BaseTest BaseTest.java63 - driver created
+20230219 23:27:19 INFO  [main] tests.AutomationTests AutomationTests.java33 - <<<< driver 1null
+20230219 23:27:22 INFO  [main] tests.AutomationTests AutomationTests.java36 - <<<< driver 2null
+20230219 23:27:22 INFO  [main] tests.AutomationTests AutomationTests.java37 - <<<< homepage 2com.jan23.pages.home.HomePage@285f38f6
+20230219 23:37:22 INFO  [main] commontests.BaseTest BaseTest.java44 - Start the test
+20230219 23:37:22 INFO  [main] commontests.BaseTest BaseTest.java51 - Creating driver
+20230219 23:37:22 INFO  [main] commontests.BaseTest BaseTest.java70 - Creating Chrome
+20230219 23:37:25 INFO  [main] commontests.BaseTest BaseTest.java63 - driver created
+20230219 23:37:32 INFO  [main] tests.AutomationTests AutomationTests.java33 - <<<< driver 1ChromeDriver: chrome on WINDOWS (0ec1c3d2ba484689613fcd8fec002581)
+20230219 23:37:35 INFO  [main] tests.AutomationTests AutomationTests.java36 - <<<< driver 2ChromeDriver: chrome on WINDOWS (0ec1c3d2ba484689613fcd8fec002581)
+20230219 23:37:35 INFO  [main] tests.AutomationTests AutomationTests.java37 - <<<< homepage 2com.jan23.pages.home.HomePage@285f38f6
+20230219 23:41:42 INFO  [main] commontests.BaseTest BaseTest.java45 - Start the test
+20230219 23:41:42 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:41:42 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:41:46 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:41:56 INFO  [main] tests.AutomationTests AutomationTests.java35 - <<<< driver 2ChromeDriver: chrome on WINDOWS (bd5e85f1dfbe6421d8a755f659419435)
+20230219 23:41:56 INFO  [main] tests.AutomationTests AutomationTests.java36 - <<<< homepage 2com.jan23.pages.home.HomePage@7d44a19
+20230219 23:41:56 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:41:57 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:41:57 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:41:59 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:42:13 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:42:14 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:42:14 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:42:16 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:42:24 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:42:24 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:42:24 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:42:27 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:42:32 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:42:33 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:42:33 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:42:36 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:42:41 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:50:23 INFO  [main] commontests.BaseTest BaseTest.java45 - Start the test
+20230219 23:50:23 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:50:23 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:50:26 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:50:36 INFO  [main] tests.AutomationTests AutomationTests.java35 - <<<< driver 2ChromeDriver: chrome on WINDOWS (f0e44093ef9d9440e012c96d0a479a7f)
+20230219 23:50:36 INFO  [main] tests.AutomationTests AutomationTests.java36 - <<<< homepage 2com.jan23.pages.home.HomePage@56dfab87
+20230219 23:50:49 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:50:50 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:50:50 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:50:53 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:51:07 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:51:08 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:51:08 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:51:10 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:51:18 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:51:19 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:51:19 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:51:21 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:51:26 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:51:27 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:51:27 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:51:30 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:51:35 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:53:40 INFO  [main] commontests.BaseTest BaseTest.java45 - Start the test
+20230219 23:53:40 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:53:40 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:53:44 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:53:54 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java35 - <<<< driver 2ChromeDriver: chrome on WINDOWS (fc21eec1f05966efc58630f458860947)
+20230219 23:53:54 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java36 - <<<< homepage 2com.jan23.pages.home.HomePage@56dfab87
+20230219 23:53:55 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:53:56 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:53:56 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:53:59 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:54:21 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:54:22 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:54:22 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:54:24 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:54:31 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:54:31 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:54:31 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:54:34 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:54:39 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230219 23:54:40 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230219 23:54:40 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230219 23:54:42 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230219 23:54:47 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230220 19:58:47 INFO  [main] commontests.BaseTest BaseTest.java45 - Start the test
+20230220 19:58:48 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230220 19:58:48 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230220 19:58:54 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230220 19:59:05 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java35 - <<<< driver 2ChromeDriver: chrome on WINDOWS (0dbcac2f7e6878b22c61a50437673afe)
+20230220 19:59:05 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java36 - <<<< homepage 2com.jan23.pages.home.HomePage@6a12c7a8
+20230220 19:59:05 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230220 19:59:06 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230220 19:59:06 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230220 19:59:09 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230220 19:59:25 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java73 - valid user is logged in
+20230220 19:59:25 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230220 19:59:26 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230220 19:59:26 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230220 19:59:29 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230220 19:59:35 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230220 19:59:36 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230220 19:59:36 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230220 19:59:38 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230220 19:59:44 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230220 19:59:45 INFO  [main] commontests.BaseTest BaseTest.java52 - Creating driver
+20230220 19:59:45 INFO  [main] commontests.BaseTest BaseTest.java76 - Creating Chrome
+20230220 19:59:47 INFO  [main] commontests.BaseTest BaseTest.java64 - driver created
+20230220 19:59:52 INFO  [main] commontests.BaseTest BaseTest.java185 - Taking Screenshot
+20230220 20:24:35 INFO  [main] commontests.BaseTest2 BaseTest2.java45 - Start the test
+20230220 20:24:35 INFO  [main] commontests.BaseTest2 BaseTest2.java52 - Creating driver
+20230220 20:24:35 INFO  [main] commontests.BaseTest2 BaseTest2.java76 - Creating Chrome
+20230220 20:24:38 INFO  [main] commontests.BaseTest2 BaseTest2.java64 - driver created
+20230220 20:24:48 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java35 - <<<< driver 2ChromeDriver: chrome on WINDOWS (29aae85c568eb1edf98d01cfbe8d9189)
+20230220 20:24:48 INFO  [main] tests.SaleforceLoginWithPOM SaleforceLoginWithPOM.java36 - <<<< homepage 2com.jan23.pages.home.HomePage@102c577f
+20230220 20:24:49 INFO  [main] commontests.BaseTest2 BaseTest2.java185 - Taking Screenshot
+20230228 19:18:08 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 19:20:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:42:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:42:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:42:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:42:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:42:31 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:43:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:43:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:43:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:43:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:43:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:45:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:45:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:45:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:45:51 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:45:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:46:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java161 - valid user is logged in
+20230228 21:48:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:48:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:48:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:48:38 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:48:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:48:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java136 - <<<< driver 2ChromeDriver: chrome on WINDOWS (1c0c5b96020693f96df71a8c014e027b)
+20230228 21:48:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java137 - <<<< homepage 2com.jan23.pages.home.HomePage@78d71df1
+20230228 21:48:54 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:48:54 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:48:56 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:49:01 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:49:02 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:49:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:49:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:49:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:49:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:49:11 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:49:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java161 - valid user is logged in
+20230228 21:49:25 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:49:25 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:49:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:49:32 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:49:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:49:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:49:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:49:38 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:49:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:49:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:51:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java42 - Creating driver
+20230228 21:51:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - Creating Chrome
+20230228 21:51:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java54 - driver created
+20230228 21:51:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java91 - user name entered
+20230228 21:51:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java96 - user name entered
+20230228 21:51:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java136 - <<<< driver 2ChromeDriver: chrome on WINDOWS (6e2aca718a4e0274d86cfb1937cfab7c)
+20230228 21:51:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java137 - <<<< homepage 2com.jan23.pages.home.HomePage@6c8fe7a4
+20230228 21:58:02 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java41 - Creating driver
+20230228 21:58:02 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - Creating Chrome
+20230228 21:58:04 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java53 - driver created
+20230228 21:58:08 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java90 - user name entered
+20230228 21:58:08 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 21:58:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java135 - <<<< driver 2ChromeDriver: chrome on WINDOWS (4dc4a388cfb8ae682f4d800dd8cb637e)
+20230228 21:58:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java136 - <<<< homepage 2com.jan23.pages.home.HomePage@6c8fe7a4
+20230228 21:58:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java41 - Creating driver
+20230228 21:58:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - Creating Chrome
+20230228 21:58:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java53 - driver created
+20230228 21:58:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java90 - user name entered
+20230228 21:58:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 21:58:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java41 - Creating driver
+20230228 21:58:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - Creating Chrome
+20230228 21:58:37 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java53 - driver created
+20230228 21:58:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java90 - user name entered
+20230228 21:58:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 21:58:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java160 - valid user is logged in
+20230228 21:58:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java41 - Creating driver
+20230228 21:58:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - Creating Chrome
+20230228 21:58:54 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java53 - driver created
+20230228 21:58:59 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java90 - user name entered
+20230228 21:58:59 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 21:59:01 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java41 - Creating driver
+20230228 21:59:01 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - Creating Chrome
+20230228 21:59:02 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java53 - driver created
+20230228 21:59:06 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java90 - user name entered
+20230228 21:59:06 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:09:49 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:09:49 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:09:51 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:09:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:09:56 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:09:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java140 - <<<< driver 2ChromeDriver: chrome on WINDOWS (9bdd7d97cc47eedc32c980f5a269ac78)
+20230228 22:09:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java141 - <<<< homepage 2com.jan23.pages.home.HomePage@2047981
+20230228 22:10:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java183 - Taking Screenshot
+20230228 22:17:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:17:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:17:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:17:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:17:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:17:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java140 - <<<< driver 2ChromeDriver: chrome on WINDOWS (24e152ca108d1156eb1b0fda2e2d279f)
+20230228 22:17:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java141 - <<<< homepage 2com.jan23.pages.home.HomePage@2ad99cf3
+20230228 22:17:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java183 - Taking Screenshot
+20230228 22:18:01 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:18:01 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:18:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:18:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:18:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:18:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java140 - <<<< driver 2ChromeDriver: chrome on WINDOWS (a06ba469d498d900f1dc818a6f39b30d)
+20230228 22:18:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java141 - <<<< homepage 2com.jan23.pages.home.HomePage@2ad99cf3
+20230228 22:18:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:18:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:18:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:18:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:18:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:18:25 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:18:25 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:18:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:18:32 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:18:32 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:18:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java165 - valid user is logged in
+20230228 22:18:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:18:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:18:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:18:50 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:18:50 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:18:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:18:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:18:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:18:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:18:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:24:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:24:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:24:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:24:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:24:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:24:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java140 - <<<< driver 2ChromeDriver: chrome on WINDOWS (7ee91704eec40097c9ffd406a119107e)
+20230228 22:24:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java141 - <<<< homepage 2com.jan23.pages.home.HomePage@26865482
+20230228 22:24:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:24:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:24:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:24:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:24:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:24:47 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:24:47 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:24:48 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:24:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:24:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:25:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java165 - valid user is logged in
+20230228 22:25:04 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:25:04 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:25:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:25:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:25:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:25:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:25:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:25:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:25:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:25:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:28:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:28:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:28:07 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:28:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:28:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:28:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java140 - <<<< driver 2ChromeDriver: chrome on WINDOWS (9cbb37eab023c8af1bd1814fb1113a99)
+20230228 22:28:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java141 - <<<< homepage 2com.jan23.pages.home.HomePage@26865482
+20230228 22:28:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:28:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:28:34 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:28:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:28:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:28:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:28:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:28:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:28:45 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:28:45 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:28:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java165 - valid user is logged in
+20230228 22:28:56 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:28:56 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:28:57 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:29:01 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:29:02 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230228 22:29:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230228 22:29:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230228 22:29:04 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230228 22:29:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230228 22:29:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230301 08:35:26 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 08:35:26 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 08:35:31 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 08:35:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230301 08:35:37 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230301 08:35:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java140 - <<<< driver 2ChromeDriver: chrome on WINDOWS (6c99976441b3ffe6e1589cd8fded6aab)
+20230301 08:35:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java141 - <<<< homepage 2com.jan23.pages.home.HomePage@280fafd
+20230301 08:35:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 08:35:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 08:35:45 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 08:35:49 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230301 08:35:50 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230301 08:35:51 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 08:35:51 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 08:35:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 08:35:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230301 08:35:59 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230301 08:36:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java165 - valid user is logged in
+20230301 08:36:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 08:36:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 08:36:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 08:36:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230301 08:36:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230301 08:36:21 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 08:36:21 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 08:36:23 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 08:36:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java95 - user name entered
+20230301 08:36:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230301 13:31:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 13:31:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 13:31:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 13:35:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 13:35:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 13:36:02 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 13:36:07 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 13:36:07 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 13:36:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 13:36:15 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 13:36:15 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 13:36:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 13:36:22 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 13:36:22 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 13:36:25 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 13:36:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java46 - Creating driver
+20230301 13:36:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - Creating Chrome
+20230301 13:36:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java58 - driver created
+20230301 13:43:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 13:43:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 13:43:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 13:43:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java191 - user name entered
+20230301 13:43:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java198 - user name entered
+20230301 13:43:31 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java141 - <<<< driver 2ChromeDriver: chrome on WINDOWS (658b12f8be866dca50d9ef0dfe9e2671)
+20230301 13:43:31 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java142 - <<<< homepage 2com.jan23.pages.home.HomePage@2fb25f4c
+20230301 16:12:22 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:12:22 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:12:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:23:34 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:23:34 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:23:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:23:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java98 - user name entered
+20230301 16:23:45 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java104 - password entered
+20230301 16:23:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java145 - <<<< driver 2ChromeDriver: chrome on WINDOWS (0d195e3e3958fe253274285f2de0e29b)
+20230301 16:23:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java146 - <<<< homepage 2com.jan23.pages.home.HomePage@22bdb1d0
+20230301 16:24:48 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:24:48 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:24:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:24:57 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java98 - user name entered
+20230301 16:24:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java104 - password entered
+20230301 16:24:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java145 - <<<< driver 2ChromeDriver: chrome on WINDOWS (822ce8148eb1c7888baddf0ad97cb9e1)
+20230301 16:24:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java146 - <<<< homepage 2com.jan23.pages.home.HomePage@22bdb1d0
+20230301 16:28:16 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:28:16 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:28:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:28:26 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java98 - user name entered
+20230301 16:28:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java104 - password entered
+20230301 16:28:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java146 - <<<< driver 2ChromeDriver: chrome on WINDOWS (6dd8c654871e74a7be3ffb6519babc64)
+20230301 16:28:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java147 - <<<< homepage 2com.jan23.pages.home.HomePage@22bdb1d0
+20230301 16:32:16 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:32:16 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:32:21 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:34:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:34:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:34:21 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:34:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java99 - user name entered
+20230301 16:34:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java106 - password entered
+20230301 16:34:31 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java148 - <<<< driver 2ChromeDriver: chrome on WINDOWS (2aed557d087f28ecf6b5029e09a72302)
+20230301 16:34:31 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java149 - <<<< homepage 2com.jan23.pages.home.HomePage@22bdb1d0
+20230301 16:37:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:37:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:37:23 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:37:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java99 - user name entered
+20230301 16:37:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java106 - password entered
+20230301 16:37:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java148 - <<<< driver 2ChromeDriver: chrome on WINDOWS (99f0164601368df6fa9a5ac6531ec4a2)
+20230301 16:37:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java149 - <<<< homepage 2com.jan23.pages.home.HomePage@342e690b
+20230301 16:42:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:42:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:42:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:42:49 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java99 - user name entered
+20230301 16:42:50 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java106 - password entered
+20230301 16:43:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java148 - <<<< driver 2ChromeDriver: chrome on WINDOWS (b9583583b8bcdd31ba49344812669c3e)
+20230301 16:43:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java149 - <<<< homepage 2com.jan23.pages.home.HomePage@342e690b
+20230301 16:45:26 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 16:45:26 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 16:45:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 16:45:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java99 - user name entered
+20230301 16:45:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java106 - password entered
+20230301 18:02:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java47 - Creating driver
+20230301 18:02:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java65 - Creating Chrome
+20230301 18:02:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java59 - driver created
+20230301 18:02:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java99 - user name entered
+20230301 18:02:15 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java106 - password entered
+20230301 18:02:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java173 - valid user is logged in
+20230302 18:19:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230302 18:19:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230302 18:19:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230302 18:19:11 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230302 18:19:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230302 18:23:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230302 18:23:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230302 18:23:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230302 18:23:23 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230302 18:23:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230302 18:23:38 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java174 - valid user is logged in
+20230303 08:27:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 08:27:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 08:27:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 08:27:34 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 08:27:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 08:27:50 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 09:49:50 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 09:49:50 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 09:49:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 09:49:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 09:49:59 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 09:50:11 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 09:54:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 09:54:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 09:54:16 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 09:54:21 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 09:54:22 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 09:54:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 09:59:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 09:59:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 09:59:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 09:59:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 09:59:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 09:59:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 15:36:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 15:36:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 15:36:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 15:36:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 15:36:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 15:36:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 15:36:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:36:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:39:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 15:39:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 15:39:23 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 15:39:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 15:39:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 15:39:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 15:39:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:39:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:43:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 15:43:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 15:43:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 15:43:26 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 15:43:27 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 15:43:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 15:43:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:43:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:43:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:43:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:49:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 15:49:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 15:49:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 15:49:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 15:49:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 15:49:56 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 15:49:56 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:49:57 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:49:59 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:50:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:52:26 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 15:52:26 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 15:52:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 15:52:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 15:52:37 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 15:52:51 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 15:52:51 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:52:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:52:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:57:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 15:57:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 15:57:23 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 15:57:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 15:57:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 15:57:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 15:57:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:57:56 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 15:57:56 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java201 - Taking Screenshot
+20230303 16:10:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:10:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:10:23 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:10:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:10:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:10:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 16:21:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:21:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:21:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:21:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:21:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:21:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 16:24:37 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:24:37 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:24:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:24:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:24:47 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:24:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java153 - <<<< driver 2ChromeDriver: chrome on WINDOWS (2a0b58dc93e601febc0fd1fccc98913e)
+20230303 16:24:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java154 - <<<< homepage 2com.jan23.pages.home.HomePage@6c8fe7a4
+20230303 16:24:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:24:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:24:59 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:25:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:25:06 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:25:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:25:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:25:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:25:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:25:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:25:34 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 16:25:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:25:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:25:38 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:25:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:25:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:25:47 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:25:47 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:25:50 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:25:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:31:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:31:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:32:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:32:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:32:11 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:32:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java153 - <<<< driver 2ChromeDriver: chrome on WINDOWS (02b8eb808a3c1ef211e28ffafa569f0a)
+20230303 16:32:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java154 - <<<< homepage 2com.jan23.pages.home.HomePage@2ad99cf3
+20230303 16:34:08 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:34:08 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:34:13 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:34:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:34:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:34:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java153 - <<<< driver 2ChromeDriver: chrome on WINDOWS (be58e344673dcdbdc601fe129ea338c1)
+20230303 16:34:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java154 - <<<< homepage 2com.jan23.pages.home.HomePage@2ad99cf3
+20230303 16:39:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:39:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:39:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:39:29 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:39:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:39:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java153 - <<<< driver 2ChromeDriver: chrome on WINDOWS (f0c1471388f7f5855df7942b2c1f6b05)
+20230303 16:39:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java154 - <<<< homepage 2com.jan23.pages.home.HomePage@718fd7c1
+20230303 16:39:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:39:42 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:39:45 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:39:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:39:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:40:01 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:40:01 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:40:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:40:08 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:40:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:40:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java179 - valid user is logged in
+20230303 16:40:25 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:40:25 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:40:28 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:40:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:40:34 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:40:37 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:40:37 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:40:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:40:44 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:40:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:43:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:43:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:44:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:44:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:44:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:45:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:45:33 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:45:37 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:45:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:45:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:49:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:49:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:49:57 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:50:03 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:50:04 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:51:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:51:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:51:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:51:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:51:25 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:54:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:54:20 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:54:24 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:54:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:54:30 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 16:57:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 16:57:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 16:57:10 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 16:57:16 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 16:57:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:00:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:00:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:01:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:01:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:01:06 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:01:07 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java136 - user name entered
+20230303 17:01:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:01:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:01:51 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:01:57 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:01:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:01:59 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java136 - user name entered
+20230303 17:04:07 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:04:07 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:04:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:04:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:04:19 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:04:32 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java155 - <<<< driver 2ChromeDriver: chrome on WINDOWS (a1ba0f5a0ac38593e5b04b49b6b848b5)
+20230303 17:04:32 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java156 - <<<< homepage 2com.jan23.pages.home.HomePage@2ad99cf3
+20230303 17:07:54 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:07:54 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:08:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:08:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:08:06 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:08:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java155 - <<<< driver 2ChromeDriver: chrome on WINDOWS (2d89ef7d77953455f344c5f4ed15a05d)
+20230303 17:08:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java156 - <<<< homepage 2com.jan23.pages.home.HomePage@6f31df32
+20230303 17:10:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:10:39 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:10:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:10:48 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:10:49 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:10:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java155 - <<<< driver 2ChromeDriver: chrome on WINDOWS (d2a0ce45a7ff1d98d70f229e78241aa9)
+20230303 17:10:53 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java156 - <<<< homepage 2com.jan23.pages.home.HomePage@2ad99cf3
+20230303 17:10:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:10:55 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:11:00 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:11:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:11:05 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:11:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:11:09 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:11:12 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:11:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:11:17 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:11:32 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java181 - valid user is logged in
+20230303 17:11:32 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:11:32 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:11:35 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:11:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:11:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:11:41 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java136 - user name entered
+20230303 17:11:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java48 - Creating driver
+20230303 17:11:43 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java66 - Creating Chrome
+20230303 17:11:45 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java60 - driver created
+20230303 17:11:51 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java100 - user name entered
+20230303 17:11:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java107 - password entered
+20230303 17:17:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java50 - Creating driver
+20230303 17:17:14 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java68 - Creating Chrome
+20230303 17:17:18 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java62 - driver created
+20230303 17:18:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java51 - Creating driver
+20230303 17:18:36 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java69 - Creating Chrome
+20230303 17:18:40 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java63 - driver created
+20230303 17:18:46 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java103 - user name entered
+20230303 17:18:47 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java110 - password entered
+20230303 17:18:47 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java139 - user name entered
+20230303 17:20:48 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java52 - Creating driver
+20230303 17:20:48 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java70 - Creating Chrome
+20230303 17:20:52 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java64 - driver created
+20230303 17:20:57 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java104 - user name entered
+20230303 17:20:57 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java111 - password entered
+20230303 17:20:58 INFO  [main] steps.StepDefinationForSaleforceLogin StepDefinationForSaleforceLogin.java140 - user name entered
